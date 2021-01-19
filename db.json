@@ -1,0 +1,92 @@
+{
+	"informations": [{
+			"city": "Акмолинская",
+			"active": "8242",
+			"recovered": "7285",
+			"deaths": "97"
+		},
+		{
+			"city": "Алматинская",
+			"active": "8098",
+			"recovered": "6163",
+			"deaths": "89"
+		},
+		{
+			"city": "Актюбинская",
+			"active": "3798",
+			"recovered": "3662",
+			"deaths": "44"
+		},
+		{
+			"city": "Атырауская",
+			"active": "14881",
+			"recovered": "13595",
+			"deaths": "122"
+		},
+		{
+			"city": "Восточно-Казахстанская",
+			"active": "19520",
+			"recovered": "19082",
+			"deaths": "323"
+		},
+		{
+			"city": "Жамбылская",
+			"active": "5247",
+			"recovered": "4932",
+			"deaths": "63"
+		},
+		{
+			"city": "Западно-Казахстанская",
+			"active": "9888",
+			"recovered": "8561",
+			"deaths": "175"
+		},
+		{
+			"city": "Карагандинская",
+			"active": "12720",
+			"recovered": "11952",
+			"deaths": "294"
+		},
+		{
+			"city": "Костанайская",
+			"active": "8597",
+			"recovered": "7627",
+			"deaths": "36"
+		},
+		{
+			"city": "Кызылординская",
+			"active": "3483",
+			"recovered": "3381",
+			"deaths": "15"
+		},
+		{
+			"city": "Мангистауская",
+			"active": "3869",
+			"recovered": "3686",
+			"deaths": "56"
+		},
+		{
+			"city": "Павлодарская",
+			"active": "10418",
+			"recovered": "9223",
+			"deaths": "89"
+		},
+		{
+			"city": "Северо-Казахстанская",
+			"active": "9507",
+			"recovered": "8574",
+			"deaths": "41"
+		}, {
+			"city": "Туркестанская",
+			"active": "3879",
+			"recovered": "3625",
+			"deaths": "47"
+		}
+
+	],
+	"all": [{
+		"active": "168096",
+		"recovered": "153035",
+		"deaths": "2349"
+	}]
+}
