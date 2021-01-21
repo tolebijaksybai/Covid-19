@@ -1,5 +1,5 @@
-# Covid-19
-HTML5, CSS3, JavaScript
+# Covid-19 Kazakhstan
+HTML5, CSS3, JavaScript, db.json
 
 Ссылка на сайт https://tolebijaksybai.github.io/Covid-19/
 
